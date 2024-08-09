@@ -2,7 +2,8 @@
 > Efficient android miner for Xen Blocks
 
 ## About
-Go to [Release](https://github.com/beshenkaD/XenDroid/releases) page to download XenDroid.
+Go to [Release](https://github.com/beshenkaD/XenDroid/releases) page to download XenDroid.  
+Join our [telegram group](https://t.me/XenDroidMining) for direct connection with the author and other community members.
 ### Features
 - Easy to use. Just input your address and start mining.
 - Built-in screensaver. Your AMOLED will thank you.
